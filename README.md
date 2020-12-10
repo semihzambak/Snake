@@ -1,3 +1,3 @@
 # Snake
 Play:
-https://zambak.me/Snake/
+https://semihzambak.github.io/snake/
